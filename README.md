@@ -45,10 +45,7 @@ Possible scores: **0**, **0.5**, or **1**.
 
 ### **9. CompliancePercent.py**
 
-Computes overall Compliance percentage:
-[
-\text{Compliance Percent} = \frac{\text{Sum of Compliance Scores}}{\text{Total Number of Tasks}}
-]
+Computes the overall compliance percentage by dividing the total sum of all scores by the number of analyzed tasks.
 
 ---
 
