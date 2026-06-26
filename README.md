@@ -108,6 +108,7 @@ By the end of the pipeline, the system provides:
 
 * The pipeline assumes that clustering always results in **exactly 3 groups**.
 * Designed and validated using *League of Legends* data, but adaptable to other MOBA games.
+* Association of tasks with each player-role according to the literature descriptions, graphical and statistical analysis is provided as a complementary material in folder "TaskRoleAssociation.zip"
 
 ---
  
